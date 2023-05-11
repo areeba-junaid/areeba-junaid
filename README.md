@@ -1,7 +1,6 @@
 ### Hi there fellow Engineers 👋
 
-<!--
-**areeba-junaid/areeba-junaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ##About me
 
 ##### 🔭 I am Full Stack Web Developer
